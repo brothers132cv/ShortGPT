@@ -1,7 +1,7 @@
-ffmpeg
+ffmpeg-python
 python-dotenv
 gradio==3.38.0
-openai
+openai==0.28.1
 tiktoken
 tinydb
 tinymongo
